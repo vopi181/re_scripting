@@ -1,0 +1,12 @@
+[submodule "ghidra_scripts"]
+	path = ghidra_scripts
+	url = ./ghidra/ghidra_scripts
+[submodule "driverbuddy"]
+	path = driverbuddy
+	url = ./ida/driverbuddy
+[submodule "crypto-detector"]
+	path = crypto-detector
+	url = ./python/crypto-detector
+[submodule "rules"]
+	path = rules
+	url = ./yara/rules
